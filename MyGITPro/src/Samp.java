@@ -5,5 +5,6 @@ public class Samp
 	{
 		System.out.println("Hi Chandan");
 		System.out.println("Hi Hyderabad");
+		System.out.println("Hi India");
 	}
 }
